@@ -13,7 +13,7 @@ The python script we present you here is does exactly that.
 The script can be executed as a cPanel user also to reset passwords of email accounts under his account. It is achieved through eliminating the use of cPanel API Calls, hence only a few modifications are required for the user level execution.
 
 How To Use
-  -----------
+-----------
   
   Run the file by using the command 
  -<br />python <filename>.py
@@ -32,8 +32,8 @@ How To Use
  A success message will be printed in case of a successful password change.
  
  
- Sample output
- -------------
+Sample output
+-------------
  
  <br />Enter Email Account:example@example.com
  <br />EmailAccount: example@example.com 
