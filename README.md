@@ -8,7 +8,7 @@ It is a bit time consuming, right? And what if you have only WHM Access?
 
 Then you will have to select the account and drop into its cPanel account which adds an additional step and delay our time even more. What if we had a simple utility to reset email passwords through Command line. It would just get things done in a few seconds saving us a few minutes of our time *and the clients time ;)*.
 
-The python script we present you here is does exactly that.  
+The python script, we present you here does exactly the same.  
 
 The script can be executed as a cPanel user also to reset passwords of email accounts under his account. It is achieved through eliminating the use of cPanel API Calls, hence only a few modifications are required for the user level execution.
 
